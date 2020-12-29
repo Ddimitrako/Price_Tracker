@@ -16,3 +16,7 @@ System also keep data logs from all the searches.
 *The customer give me the link of the car he wants to track.
 This link is the link in the broswer after the he presses the result button.
 Customer can and is recomented to add criteria to his search before he sent us the link.
+
+# Some example photos 
+![](images/main.jpg)
+![](images/main2.jpg) 
