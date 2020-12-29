@@ -1,5 +1,0 @@
-Car_Name,Model,link,frequency,maxPrice,emailReceiver
-opel,gt,https://www.car.gr/used-cars/opel/gt.html?sort=pra,1,10000,dimidimitrakopoulos1@gmail.com
-audi,tt,https://www.car.gr/classifieds/cars/?fs=1&make=4&model=1109&price-from=%3E200&registration-from=%3E2010&mileage-from=%3E10000&mileage-to=%3C150000&engine_size-from=%3E1800&engine_size-to=%3C2000&significant_damage=f,1,50000,dimidimitrakopoulos1@gmail.com
-vw,golf,https://www.car.gr/classifieds/cars/?fs=1&make=251&model=828&price-from=%3E500&price-to=%3C20000&registration-from=%3E2010&engine_size-from=%3E1800&engine_size-to=%3C2000,1,15000,dimidimitrakopoulos1@gmail.com
-vw,scirroco,https://www.car.gr/classifieds/cars/?fs=1&make=251&model=840&price-from=%3E500&price-to=%3C20000&registration-from=%3E2008&engine_size-from=%3E1800&engine_size-to=%3C2000,1,25000,dimidimitrakopoulos1@gmail.com
