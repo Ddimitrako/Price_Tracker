@@ -10,8 +10,7 @@ def SentEmailNotification(data,receiver_email):
     return
     port = 587  # For starttls
     smtp_server = "smtp.gmail.com"
-    # sender_email = "gigiriva2oz@gmail.com"
-    # password = 'ddimitrakopoulos314159'
+    
     sender_email,password = ReadEmailSenderCredentials()
 
     message = f"""\
